@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "version": "0.3",
+    "created_by": "Florian Doerfler",
+    "description": "Master external memory for the long-term AI project with chat update 2025-11-17",
+    "last_update": "2025-11-17"
+  },
+
+  "memory_update": {
+    "chat_date": "2025-11-17",
+    "summary": "Chat mit Florian über GitHub Repository Management, Terminal, Git Push/Pull, Commit-Probleme, Personal Access Token, Chat-History und Erstellen von JSON-Update-Dateien für Master Memory.",
+    "new_files_added": [
+      "chat-history/chat_2025_11_16.txt",
+      "updates/chat_2025_11_17.json"
+    ],
+    "tasks_done": [
+      "Git Push erfolgreich nach Merge von remote main",
+      "Chat-History korrekt im Ordner 'chat-history' abgelegt",
+      "Updates JSON-Datei für das heutige Gespräch erstellt"
+    ],
+    "key_decisions": [
+      "Jede Chat-Session wird in einer separaten JSON-Datei dokumentiert",
+      "Ordnerstruktur: 'chat-history/' für Rohdateien, 'updates/' für JSON-Update-Dateien",
+      "Bei neuen Chats wird nur die URL gepostet, um Master Memory einzulesen"
+    ],
+    "next_steps": [
+      "Datei 'chat_2025_11_17.json' ins Repository einfügen, committen und pushen",
+      "Bei zukünftigen Chats 'bitte lies das ein' + URL verwenden"
+    ]
+  }
+}

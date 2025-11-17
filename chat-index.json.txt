@@ -1,0 +1,5 @@
+{
+  "description": "Master index for all chats and updates",
+  "master_memory": "memory.json.txt",
+  "chats": []
+}
